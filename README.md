@@ -18,7 +18,7 @@ Sıfırdan İleri Seviye**, Udemy (2022)
 
 
 📫 İletişim
-![Github Badge](https://github-readme-stats.vercel.app/api?edemiroglu&show_icons=true&theme=gradient)
+[![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://github.com/edemiroglu)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erdem-demiroğlu-535091239/)
 
 
