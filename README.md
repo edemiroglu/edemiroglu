@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**edemiroglu/edemiroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Merhaba Ben Erdem Demiroğlu, bir Bilgisayar Mühendisliği öğrencisiyim. Yapay zeka, görüntü işleme ve veri bilimi alanlarında tutkulu ve öğrenmeyi seven bir geliştiriciyim. Gelişen Teknoloji dünyasına olan ilgim ve merakım sayesinde, bu alanlarda kendimi sürekli olarak geliştirerek ileride daha iyi bir yazılım geliştirici  olmak için çabalıyorum.
 
 🎓 Eğitim
