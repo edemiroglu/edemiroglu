@@ -23,7 +23,7 @@ Sıfırdan İleri Seviye**, Udemy (2022)
 [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/edemiroglu)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/erdem-demiroğlu-535091239/)
 [![Mail](https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail)](https://mail.google.com/)
-[![Mail ](https://img.shields.io/badge/Mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edemiroglu138@gmail.com)
+[![Mail ](https://img.shields.io/badge/Mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=whiteandblue)](mailto:edemiroglu138@gmail.com)
 
 
 
