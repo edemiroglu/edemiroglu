@@ -2,9 +2,9 @@
 - Merhaba Ben Erdem Demiroğlu, bir Bilgisayar Mühendisliği öğrencisiyim. Yapay zeka, görüntü işleme ve veri bilimi alanlarında tutkulu ve öğrenmeyi seven bir geliştiriciyim. Gelişen Teknoloji dünyasına olan ilgim ve merakım sayesinde, bu alanlarda kendimi sürekli olarak geliştirerek ileride daha iyi bir yazılım geliştirici  olmak için çabalıyorum.
 
 🎓 Eğitim
--  Bilgisayar Mühendisliği, 3. Sınıf Öğrencisi
+-  Bilgisayar Mühendisi
 
-💻 Teknik Becerilerim
+💻 Teknik 
 - Yapay Zeka ve Makine Öğrenmesi: PyTorch, TensorFlow, Scikit-learn
 - Görüntü İşleme: OpenCV, PIL (Python Imaging Library)
 - Veri Bilimi: Pandas, NumPy, Matplotlib, Seaborn
