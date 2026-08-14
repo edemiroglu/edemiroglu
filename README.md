@@ -1,5 +1,5 @@
 🔭 Erdem Demiroğlu
-- Merhaba Ben Erdem Demiroğlu, bir Bilgisayar Mühendisliği öğrencisiyim. Yapay zeka, görüntü işleme ve veri bilimi alanlarında tutkulu ve öğrenmeyi seven bir geliştiriciyim. Gelişen Teknoloji dünyasına olan ilgim ve merakım sayesinde, bu alanlarda kendimi sürekli olarak geliştirerek ileride daha iyi bir yazılım geliştirici  olmak için çabalıyorum.
+- Merhaba Ben Erdem Demiroğlu, bir Bilgisayar Mühendisiyim. Yapay zeka, görüntü işleme ve veri bilimi alanlarında tutkulu ve öğrenmeyi seven bir geliştiriciyim. Gelişen Teknoloji dünyasına olan ilgim ve merakım sayesinde, bu alanlarda kendimi sürekli olarak geliştirerek ileride daha iyi bir yazılım geliştirici  olmak için çabalıyorum.
 
 🎓 Eğitim
 -  Bilgisayar Mühendisi
